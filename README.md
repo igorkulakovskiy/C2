@@ -1,4 +1,4 @@
-##Fellows, it left 15 minutes for me to write a documentation before the deadline to submit all project, so please be mercy. Documentation will not be cool. 
+### Fellows, it left 15 minutes for me to write a documentation before the deadline to submit all project, so please be mercy. Documentation will not be cool. 
 
 Note! Before running the script be sure you have "sqldf" R package installed at your machine. Otherwise, please run 
 install.packages("sqldf") command before starting
