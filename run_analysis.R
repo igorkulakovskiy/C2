@@ -47,4 +47,4 @@ names(TidyDataset)[names(TidyDataset) == 'Group.1'] = 'activityName'
 names(TidyDataset)[names(TidyDataset) == 'Group.2'] = 'SubjectNo'
 
 ## Write in a file
-write.table(TidyDataset, file="tudyDS.txt", row.name=FALSE)
+write.table(TidyDataset, file="tidyDS.txt", row.name=FALSE)
